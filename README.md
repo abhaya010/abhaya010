@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-I'm **Abhaya Bhatta**, a Software Engineering student from Nepal with a passion for backend web development and research Ai.
+I'm **Abhaya Bhatta**, a Software Engineering student from Nepal with a passion for backend web development and research AI.
 
 ## 🧑‍💻 About Me
 
@@ -9,9 +9,9 @@ When I’m not debugging or building APIs, you’ll find me riding my bike and t
 
 ## 🌍 Outside of Code
 
-- I love **traveling** and experiencing new cultures — from the streets of Kathmandu to anywhere aroundes around the world. nepal.
-- I’m a huge fan of **kavish** and urdu songs
-- Music and art inspire me, and I believe creativity fuels great software.
+- I love **traveling** and experiencing new cultures — from the streets of Kathmandu to anywhere in nepal.
+- I’m a huge fan of **kavishh** and urdu songs.
+- Music and football inspires me, and I believe creativity fuels great software.
 - I’m always up for a good chat about tech, travel, or the next best Netflix show.
 
  Sarcasm? You might catch a bit here and there.
